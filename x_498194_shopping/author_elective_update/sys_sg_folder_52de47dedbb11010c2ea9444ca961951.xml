@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="DELETE">
+        <application display_value="Shopping List">9dcc0f5edb711010c2ea9444ca9619d9</application>
+        <name>Store</name>
+        <order>10</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-06 21:49:44</sys_created_on>
+        <sys_id>52de47dedbb11010c2ea9444ca961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store</sys_name>
+        <sys_package display_value="Shopping List" source="x_498194_shopping">8d890f1adbb11010c2ea9444ca9619d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8d890f1adbb11010c2ea9444ca9619d7</sys_scope>
+        <sys_update_name>sys_sg_folder_52de47dedbb11010c2ea9444ca961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-06 21:49:44</sys_updated_on>
+    </sys_sg_folder>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">8d890f1adbb11010c2ea9444ca9619d7</application>
+        <file_path/>
+        <instance_id>65a2885edba5df044f035d00cf961994</instance_id>
+        <instance_name>dev56868</instance_name>
+        <name>sys_sg_folder_52de47dedbb11010c2ea9444ca961951</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder"><sys_sg_folder action="INSERT_OR_UPDATE"><application display_value="Shopping List">9dcc0f5edb711010c2ea9444ca9619d9</application><name>Store</name><order>10</order><sys_class_name>sys_sg_folder</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-06 21:49:44</sys_created_on><sys_id>52de47dedbb11010c2ea9444ca961951</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Store</sys_name><sys_package display_value="Shopping List" source="x_498194_shopping">8d890f1adbb11010c2ea9444ca9619d7</sys_package><sys_policy/><sys_scope display_value="Shopping List">8d890f1adbb11010c2ea9444ca9619d7</sys_scope><sys_update_name>sys_sg_folder_52de47dedbb11010c2ea9444ca961951</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-06 21:49:44</sys_updated_on></sys_sg_folder></record_update>]]></payload>
+        <payload_hash>-1554420789</payload_hash>
+        <record_name>Store</record_name>
+        <reverted_from/>
+        <source>cd89075adbb11010c2ea9444ca96199a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-06 21:49:44</sys_created_on>
+        <sys_id>45ee4bdedbb11010c2ea9444ca96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173261b38550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-06 21:49:44</sys_updated_on>
+        <type>Folder</type>
+        <update_guid>8dee4bde66b110107fcc62a114cd3b4a</update_guid>
+        <update_guid_history>8dee4bde66b110107fcc62a114cd3b4a:-1554420789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 03:58:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_folder">sys_sg_folder</sys_db_object>
+        <sys_id>0bb15f8f45d442c680f0f71d0ce70c64</sys_id>
+        <sys_metadata>52de47dedbb11010c2ea9444ca961951</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store</sys_name>
+        <sys_package display_value="Shopping List" source="x_498194_shopping">8d890f1adbb11010c2ea9444ca9619d7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8d890f1adbb11010c2ea9444ca9619d7</sys_scope>
+        <sys_scope_delete display_value="">44f8b1bc481646c08cb9fae642994210</sys_scope_delete>
+        <sys_update_name>sys_sg_folder_52de47dedbb11010c2ea9444ca961951</sys_update_name>
+        <sys_update_version display_value="sys_sg_folder_52de47dedbb11010c2ea9444ca961951">45ee4bdedbb11010c2ea9444ca96194b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 03:58:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
